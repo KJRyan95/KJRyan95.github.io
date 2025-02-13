@@ -1,5 +1,5 @@
 # KJRyan95.github.io
 Kenneth Ryan
 kjryan@my.waketech.edu
-
-This account was created for submissions of assignments.
+This is my school account.
+This is the repo for the first lab.
