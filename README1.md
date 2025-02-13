@@ -1,0 +1,1 @@
+Hello, my name is Kenneth. Acedemic integrity is important to both proffesors and students for many reasons. People work hard to complete their own original work, so not only is it unfair to them, it is also unfair to the individual because how can you learn by cheating or submitting work that is not your own.
