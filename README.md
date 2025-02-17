@@ -2,4 +2,6 @@
 Kenneth Ryan
 kjryan@my.waketech.edu
 This is my school account.
-This is the repo for the first lab.
+This is the repo for the first lab.  
+
+**About Me**
